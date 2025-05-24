@@ -1,0 +1,36 @@
+# Minecraft server world data (optional, ha nem akarod verziózni)
+world/
+world_nether/
+world_the_end/
+
+# Minecraft logs
+logs/
+*.log
+
+# User-specific files
+*.swp
+*.swo
+
+# Java crash reports
+crash-reports/
+
+# Essentials plugin adatfájlok (ha érzékenyek)
+plugins/Essentials/userdata/
+
+# Dynmap cache
+plugins/dynmap/web/tiles/
+
+# Plugin cache, temp
+plugins/*/cache/
+plugins/*/temp/
+
+# Docker bind mount 2
+data/
+
+# Ignore plugin jar files (ha nem akarod feltölteni őket)
+plugins/*.jar
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
