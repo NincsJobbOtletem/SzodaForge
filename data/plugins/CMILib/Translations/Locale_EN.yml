@@ -390,48 +390,48 @@ info:
     zombified_piglin: Zombified piglin
   # Avoid adding color codes to the enchant name
   EnchantNames:
-    depth_strider: Depth_strider
-    loot_bonus_mobs: Loot_bonus_mobs
     protection_projectile: Protection_projectile
-    arrow_damage: Arrow_damage
-    dig_speed: Dig_speed
-    protection_explosions: Protection_explosions
-    damage_undead: Damage_undead
-    frost_walker: Frost_walker
-    arrow_infinite: Arrow_infinite
     luck: Luck
-    sweeping_edge: Sweeping_edge
-    damage_arthropods: Damage_arthropods
-    arrow_fire: Arrow_fire
-    breach: Breach
-    quick_charge: Quick_charge
-    swift_sneak: Swift_sneak
-    mending: Mending
-    lure: Lure
-    soul_speed: Soul_speed
-    protection_environmental: Protection_environmental
-    wind_burst: Wind_burst
-    protection_fire: Protection_fire
-    protection_fall: Protection_fall
-    durability: Durability
-    arrow_knockback: Arrow_knockback
-    vanishing_curse: Vanishing_curse
-    fire_aspect: Fire_aspect
-    loyalty: Loyalty
-    water_worker: Water_worker
-    piercing: Piercing
-    channeling: Channeling
-    riptide: Riptide
-    multishot: Multishot
     oxygen: Oxygen
-    density: Density
-    damage_all: Damage_all
+    channeling: Channeling
+    arrow_infinite: Arrow_infinite
+    protection_fire: Protection_fire
+    durability: Durability
+    wind_burst: Wind_burst
+    depth_strider: Depth_strider
     loot_bonus_blocks: Loot_bonus_blocks
+    arrow_fire: Arrow_fire
+    sweeping_edge: Sweeping_edge
+    multishot: Multishot
     knockback: Knockback
-    silk_touch: Silk_touch
-    binding_curse: Binding_curse
-    impaling: Impaling
+    protection_environmental: Protection_environmental
+    breach: Breach
+    arrow_damage: Arrow_damage
     thorns: Thorns
+    silk_touch: Silk_touch
+    fire_aspect: Fire_aspect
+    dig_speed: Dig_speed
+    vanishing_curse: Vanishing_curse
+    lure: Lure
+    frost_walker: Frost_walker
+    impaling: Impaling
+    protection_fall: Protection_fall
+    binding_curse: Binding_curse
+    quick_charge: Quick_charge
+    protection_explosions: Protection_explosions
+    density: Density
+    arrow_knockback: Arrow_knockback
+    damage_arthropods: Damage_arthropods
+    soul_speed: Soul_speed
+    water_worker: Water_worker
+    mending: Mending
+    swift_sneak: Swift_sneak
+    loot_bonus_mobs: Loot_bonus_mobs
+    loyalty: Loyalty
+    damage_all: Damage_all
+    riptide: Riptide
+    damage_undead: Damage_undead
+    piercing: Piercing
   PotionEffectAliases:
     instanthealth:
     - Instant health

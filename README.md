@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # SzodaForge Minecraft Szerver v2
+=======
+# SzodaForge Minecraft Szerver
+>>>>>>> c5823b192dbea1c1ae6a9ee91b4fc9046cce0aa8
 
 Ez a leírás tartalmazza a SzodaForge Minecraft szerver fájljait, konfigurációit és használt pluginok listáját a parancsaikkal.
 
