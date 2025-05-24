@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.20.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1748088175675
+  login: 1748087574154
+money: '0'
+last-account-name: SzodasSzifon
+lastlocation:
+  world: eb7b178d-d824-4590-b57e-d669ac244aea
+  world-name: world
+  x: 7.5
+  y: 109.0
+  z: 1.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: 5fc6c0f2-ed23-4360-8b9e-83038290623d
+  world-name: world
+  x: 198.79442970196314
+  y: 15.605942238771036
+  z: 210.6401453886592
+  yaw: -124.77660369873047
+  pitch: -79.81476593017578

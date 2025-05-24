@@ -1,0 +1,31 @@
+version: '3.8'
+
+services:
+  minecraft:
+    image: itzg/minecraft-server:java21
+    container_name: SzodaForgeApex
+    ports:
+      - "25565:25565"
+      - "25575:25575"
+    environment:
+      EULA: "TRUE"
+      TYPE: "PAPER"
+      VERSION: "1.21.4"
+      MEMORY: "5G"
+      ENABLE_RCON: "true"
+      RCON_PASSWORD: "asdasd123"
+      RCON_PORT: 25575
+      ONLINE_MODE: "false"                       
+      OPS: "SzodasSzifon" #,Krisz11x
+      MAX_PLAYERS: "20"
+      VIEW_DISTANCE: "8"
+      ICON: "server-icon.png"
+      ENABLE_COMMAND_BLOCK: "true"              
+      MAX_CHAINED_NEIGHBOR_UPDATES: "10000"      
+      MOTD: "SzodaForge: Apex!"  
+      PAUSE_WHEN_EMPTY: "false"                 
+      SIMULATION_DISTANCE: "8"                  
+    volumes:
+      - ./data:/data
+    tty: true
+    stdin_open: true
