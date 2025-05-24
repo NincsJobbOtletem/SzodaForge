@@ -1,6 +1,6 @@
 # SzodaForge Minecraft Szerver
 
-Ez a repository tartalmazza a SzodaForge Minecraft szerver fájljait, konfigurációit és használt pluginok listáját a parancsaikkal.
+Ez a leírás tartalmazza a SzodaForge Minecraft szerver fájljait, konfigurációit és használt pluginok listáját a parancsaikkal.
 
 ---
 
