@@ -11,7 +11,7 @@ services:
       EULA: "TRUE"
       TYPE: "PAPER"
       VERSION: "1.21.4"
-      MEMORY: "5G"
+      MEMORY: "3G"
       ENABLE_RCON: "true"
       RCON_PASSWORD: "asdasd123"
       RCON_PORT: 25575
